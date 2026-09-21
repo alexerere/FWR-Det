@@ -11,7 +11,7 @@ Project repository: <https://github.com/alexerere/FWR-Det>
 
 ## Dataset version and splits
 
-The dataset version is **FWR-DET-V3**. The predefined training, validation and test splits are:
+The dataset version is **FWR-DET**. The predefined training, validation and test splits are:
 
 | Subset | Images | Bounding boxes | Source clips |
 | --- | ---: | ---: | ---: |
@@ -25,7 +25,7 @@ The dataset version is **FWR-DET-V3**. The predefined training, validation and t
 The image-label dataset uses the following directory structure:
 
 ```text
-FWR-DET-V3/
+FWR-DET/
 ├── images/
 │   ├── train/
 │   ├── val/
@@ -51,7 +51,7 @@ The class identifier is `0` for `UAV`. Centre coordinates and box dimensions are
 
 ## Dataset configuration
 
-The configuration example in `data.yaml` defines the single class and the three image subsets. Set `path` to the absolute location of the downloaded `FWR-DET-V3` directory before using it with a compatible detector implementation. Keep the predefined splits for comparison with the manuscript results.
+The configuration example in `data.yaml` defines the single class and the three image subsets. Set `path` to the absolute location of the downloaded `FWR-DET` directory before using it with a compatible detector implementation. Keep the predefined splits for comparison with the manuscript results.
 
 ## Authors and contact
 
