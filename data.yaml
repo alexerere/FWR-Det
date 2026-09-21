@@ -1,5 +1,5 @@
 # Set path to the local FWR-DET-V3 dataset directory.
-path: /absolute/path/to/FWR-DET-V3
+path: /absolute/path/to/FWR-DET
 train: images/train
 val: images/val
 test: images/test
