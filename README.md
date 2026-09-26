@@ -3,7 +3,7 @@
 ## Download
 
 - [Download FWR-Det from Baidu Netdisk](https://pan.baidu.com/s/1hx9EG1PcTIEW3zdF7diitw)
-- Access code: gsrh
+- Access code: ask alex_whut@163.com
 
 FWR-Det is a ground-view image dataset for fixed-wing unmanned aerial vehicle detection in vision-assisted recovery. The dataset contains 11361 RGB images and 11490 bounding-box annotations for a single UAV class. Images were extracted from 113 video clips, with each clip assigned to one subset.
 
